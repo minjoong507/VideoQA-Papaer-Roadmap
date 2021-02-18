@@ -42,26 +42,23 @@
 
 **[16]** Zeng, K.-H. et al. Leveraging Video Descriptions to Learn Video Question Answering. Arxiv (2016).
 
-**[16]** Kim, S., Jeong, S., Kim, E., Kang, I. & Kwak, N. Self-supervised pre-training and contrastive representation learning for multiple-choice video QA. Arxiv (2020).
+**[17]** Kim, S., Jeong, S., Kim, E., Kang, I. & Kwak, N. Self-supervised pre-training and contrastive representation learning for multiple-choice video QA. Arxiv (2020).
 
 
 ## Short
 
-**[17]** Na, S., Lee, S., Kim, J. & Kim, G. A Read-Write Memory Network for Movie Story Understanding. 2017 Ieee Int Conf Comput Vis Iccv 677–685 (2017) doi:10.1109/iccv.2017.80.
+**[18]** Na, S., Lee, S., Kim, J. & Kim, G. A Read-Write Memory Network for Movie Story Understanding. 2017 Ieee Int Conf Comput Vis Iccv 677–685 (2017) doi:10.1109/iccv.2017.80.
 
-
-**[18]** Huang, D. et al. Location-aware Graph Convolutional Networks for Video Question Answering. Arxiv (2020).
+**[19]** Huang, D. et al. Location-aware Graph Convolutional Networks for Video Question Answering. Arxiv (2020).
     
+**[20]** Jang, Y. et al. Video Question Answering with Spatio-Temporal Reasoning. Int J Comput Vision 127, 1385–1412 (2019).
   
-**[19]** Jang, Y. et al. Video Question Answering with Spatio-Temporal Reasoning. Int J Comput Vision 127, 1385–1412 (2019).
-  
-  
-**[20]** Gao, L. et al. Structured Two-Stream Attention Network for Video Question Answering. Proc Aaai Conf Artif Intell 33, 6391–6398 (2019).
+**[21]** Gao, L. et al. Structured Two-Stream Attention Network for Video Question Answering. Proc Aaai Conf Artif Intell 33, 6391–6398 (2019).
 
   
 ## Extra
 
-**[21]** Choi, S. et al. DramaQA: Character-Centered Video Story Understanding with Hierarchical QA. Arxiv (2020).
+**[22]** Choi, S. et al. DramaQA: Character-Centered Video Story Understanding with Hierarchical QA. Arxiv (2020).
     
-**[22]** Sun, G. et al. Video Question Answering: a Survey of Models and Datasets. Mob Networks Appl 1–34 (2021) doi:10.1007/s11036-020-01730-0.
+**[23]** Sun, G. et al. Video Question Answering: a Survey of Models and Datasets. Mob Networks Appl 1–34 (2021) doi:10.1007/s11036-020-01730-0.
 
